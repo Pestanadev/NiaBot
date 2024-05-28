@@ -1,0 +1,27 @@
+# .gitignore
+
+# Ignora os arquivos de configuração do ambiente
+.env
+
+# Ignora os diretórios de dependências
+node_modules/
+
+# Ignora os logs
+logs/
+*.log
+
+# Ignora o cache do editor
+.vscode/
+
+# Ignora os arquivos de build
+dist/
+build/
+
+# Ignora os arquivos de teste de cobertura
+coverage/
+
+# Ignora os arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignora outros arquivos específicos do seu projeto
